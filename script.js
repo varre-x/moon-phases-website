@@ -58,6 +58,6 @@ function displayMoonPhase(phase) {
 }
 
 //console.log(typeof getData());
-displayMoonPhase(0.4);
+//displayMoonPhase(0.4);
 
-//getData().then(displayMoonPhase);
+getData().then(displayMoonPhase);
